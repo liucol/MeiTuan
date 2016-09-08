@@ -1,0 +1,98 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+a{
+	 cursor:pointer;
+}
+.header{
+	position: relative;
+	width: 980px;
+	height: auto;
+	margin: 35px auto 20px;
+}
+.header a{
+	font-size: 45px;
+	font-weight: bold;
+	color:#2BB8AA;
+}
+.mainbody{
+	position: relative;
+	width: 980px;
+	margin:6px auto 20px;
+}
+
+.left{
+	float: left;
+	
+}
+.right{
+	margin-left:600px;
+    padding-top: 40px;
+}
+.right span{
+	font-size: 13;
+    color: #666;
+}
+.right .title{
+	 color: #666;
+	 padding-left: 90px;
+}
+
+.right .account{
+	height: 35px;
+	width: 250px;
+	margin-top: 7px;
+}
+.right .pass{
+	height: 35px;
+	width: 250px;
+	margin-top:5px; 
+	margin-bottom: -23px;
+}
+.right .right_a1{
+	margin-left: 65px;
+	color:#2BB8AA;
+}
+.right .right_a2{
+	color:#2BB8AA;
+}
+.right .link{
+	padding-top: 10px;
+	font-size: 13;
+    color: #666; 
+}
+.right .denglu{
+	height: 35px;
+	width: 255px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	background-color: #2EBBAD;
+}
+.footer{
+	margin:150px auto 20px;
+	clear: both;
+	width: 980px; 
+    color:#999;
+}
+.footer .first{
+	padding-left: 0px;
+}
+.footer a{
+	 color:#999;
+}
+.footer ul{
+	float: left;
+	width: 594px;
+	border-top: 1px solid #EEE;
+    border-bottom: 1px solid #EEE;
+}
+.footer li{
+	list-style: none;
+	float: left;
+	padding: 5px 16px;
+}
+.footer .copyright{
+	margin-right: 500px;
+}
